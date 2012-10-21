@@ -16,7 +16,6 @@
 こんなかんじで使います。
 
     $ hexdump /bin/ls > ls_org.hex
-    $ hexdump /bin/ls > ls_org.hex
     $ python hexdump2bin.py ls_org.hex ls.bin
     [*] Reading from ls_org.hex
     [*] Analyzing...
